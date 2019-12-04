@@ -23,17 +23,26 @@
         likes(dean, whiskey).
     </script>
         
-    <script src="./search.js"></script> 
-    <script src="./images.js"></script>
+
     
 </head> 
 
-<body onload="search_soccer()"> 
+<body background="bg.jpg" onload="search_soccer()"> 
+
+
+	<div>
+		<img src="cl.png" alt="Trulli" width="58" height="58">
+		<h1 class="logo">
+  			<span class="word1">Soccer</span>
+  			<span class="word2">Gif</span>
+		</h1>
+	</div>
 	
 	<!-- input tag -->
-	<input id="searchbar" onkeyup="search_soccer()" type="text"
-		name="search" placeholder="Search ..."> 
-	
+
+	<div id="search_back">
+		<input id="searchbar" onkeyup="search_soccer()" type="text"name="search" placeholder="Search ..."> 
+	</div>
     <!-- ordered list -->
     <div style="text-align: center;">
         <div id="list_div" class="container">
@@ -52,6 +61,8 @@
         
     <script src="./search.js"></script> 
     <script src="./images.js"></script> -->
+     <script src="./search.js"></script> 
+    <script src="./images.js"></script>
 </body> 
 
 </html> 

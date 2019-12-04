@@ -4,6 +4,14 @@ const data = [
         tags: ["soccer"]
     },
     {
+        path: "./Images/s1.gif",
+        tags: ["ronaldo, real madrid, portugal"]
+    },
+     {
+        path: "./Images/s2.gif",
+        tags: ["ronaldo, real madrid, portugal"]
+    },
+    {
         path: "./Images/messi1.jpg",
         tags: ["messi"]
     },
