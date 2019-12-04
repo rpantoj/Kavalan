@@ -20,6 +20,26 @@ const data = [
         tags: ["messi"]
     },
     {
+        path: "./Images/james1.gif",
+        tags: ["james"]
+    },
+    {
+        path: "./Images/james2.gif",
+        tags: ["james"]
+    },
+    {
+        path: "./Images/james3.gif",
+        tags: ["james"]
+    },
+    {
+        path: "./Images/james4.jpg",
+        tags: ["james"]
+    },
+    {
+      path: "./Images/falcao1.gif",
+      tags: ["falcao"]
+    },
+    {
       path: "./Images/1.5de6407efd9db2486d1b2697.jpg",
       tags: ["juventus"]
     },
