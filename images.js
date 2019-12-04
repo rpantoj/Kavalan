@@ -13,15 +13,15 @@ const data = [
     },
     {
         path: "./Images/messi1.jpg",
-        tags: ["messi"]
+        tags: ["messi, barcelona"]
     },
     {
         path: "./Images/ron1.gif",
-        tags: ["ronaldo"]
+        tags: ["ronaldo, real madrid"]
     },
     {
         path: "./Images/ron2.gif",
-        tags: ["ronaldo"]
+        tags: ["ronaldo, real madrid"]
     },
     {
         path: "./Images/messi2.gif",
@@ -2107,6 +2107,75 @@ const data = [
       path: "./Images/9.tumblr_nwpfgc6EiQ1un9jt0o2_500.gif",
       tags: ["paris", "keylor", "navas"]
     },
+
+    {
+      path: "./Images/s3.gif",
+      tags: ["ronaldo", "real madrid", "spain"]
+    },
+    {
+      path: "./Images/s4.gif",
+      tags: ["ramos", "real madrid", "spain"]
+    },
+    {
+      path: "./Images/s5.gif",
+      tags: ["benzema", "real madrid", "france"]
+    },
+    {
+      path: "./Images/s6.gif",
+      tags: ["benzema", "real madrid", "france"]
+    },
+    {
+      path: "./Images/s7.gif",
+      tags: ["james", "real madrid", "colombia", "marcelo", "brazil"]
+    },
+    {
+      path: "./Images/s8.gif",
+      tags: ["ramos", "real madrid", "spain"]
+    },
+    {
+      path: "./Images/s9.gif",
+      tags: ["kroos", "real madrid", "germany"]
+    },
+    {
+      path: "./Images/s10.gif",
+      tags: ["bale", "real madrid", "wales"]
+    },
+    {
+      path: "./Images/s11.gif",
+      tags: ["ronaldo", "real madrid", "portugal"]
+    },
+    {
+      path: "./Images/s12.gif",
+      tags: ["modric", "real madrid", "spain","ronaldo"]
+    },
+    {
+      path: "./Images/s13.gif",
+      tags: ["ali","nutmeg", "englang", "premier"]
+    },
+    {
+      path: "./Images/s14.gif",
+      tags: ["griezman", "france", "drake"]
+    },
+    {
+      path: "./Images/s4.gif",
+      tags: ["mbappe", "paris", "france"]
+    },
+    {
+      path: "./Images/s16.gif",
+      tags: ["pogba", "nutmeg","manchester", "england", "france", "kante"]
+    },
+    {
+      path: "./Images/s17.gif",
+      tags: ["fight", "argentina", "chile", "medel"]
+    },
+    {
+      path: "./Images/s18.gif",
+      tags: ["neymar", "paris", "brazil", "fight"]
+    },
+
+
+
+
 ];
 
 // export { data };
