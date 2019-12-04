@@ -20,6 +20,30 @@ const data = [
         tags: ["messi"]
     },
     {
+        path: "./Images/pibe1.jpg",
+        tags: ["pibe", "colombia", "goal"]
+    },
+    {
+        path: "./Images/pibe2.jpg",
+        tags: ["pibe", "colombia", "pass", "kick"]
+    },
+    {
+        path: "./Images/pibe3.jpg",
+        tags: ["pibe", "colombia", "kick"]
+    },
+    {
+        path: "./Images/pibe4.jpg",
+        tags: ["pibe", "colombia", "kick"]
+    },
+    {
+      path: "./Images/pibe5.gif",
+      tags: ["pibe", "colombia", "pass"]
+    },
+    
+    
+    
+    
+    {
         path: "./Images/james1.gif",
         tags: ["james", "madrid", "goal"]
     },
