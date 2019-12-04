@@ -21,23 +21,23 @@ const data = [
     },
     {
         path: "./Images/james1.gif",
-        tags: ["james"]
+        tags: ["james", "madrid", "goal"]
     },
     {
         path: "./Images/james2.gif",
-        tags: ["james"]
+        tags: ["james", "colombia", "pass", "kick"]
     },
     {
         path: "./Images/james3.gif",
-        tags: ["james"]
+        tags: ["james", "colombia", "goal"]
     },
     {
         path: "./Images/james4.jpg",
-        tags: ["james"]
+        tags: ["james", "madrid", "kick"]
     },
     {
       path: "./Images/falcao1.gif",
-      tags: ["falcao"]
+      tags: ["falcao", "colombia", "kick"]
     },
     {
       path: "./Images/1.5de6407efd9db2486d1b2697.jpg",
