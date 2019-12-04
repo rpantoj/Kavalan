@@ -32,7 +32,7 @@ const data = [
         tags: ["pibe", "colombia", "kick"]
     },
     {
-        path: "./Images/pibe4.jpg",
+        path: "./Images/pibe4.gif",
         tags: ["pibe", "colombia", "kick"]
     },
     {
@@ -80,7 +80,7 @@ const data = [
       tags: ["juventus"]
     },
     {
-      path: "./Images/13.https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F11%2Fpalace-juventus-collaboration-industry-insider-reactions-TW.jpg",
+      path: "./Images/13.palace-juventus-collaboration-industry-insider-reactions-TW.jpg",
       tags: ["juventus"]
     },
     {
@@ -116,7 +116,7 @@ const data = [
       tags: ["juventus"]
     },
     {
-      path: "./Images/21.https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F10%2Ftw-palace-skateboards-juventus-adidas-football-2019-20-collaboration-release-info.jpg",
+      path: "./Images/21.hypebeast.jpg",
       tags: ["juventus"]
     },
     {
@@ -212,7 +212,7 @@ const data = [
       tags: ["juventus"]
     },
     {
-      path: "./Images/43.https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F10%2Ftw-juventus-palace-adidas-football-kit-official-unveil.jpg",
+      path: "./Images/43.ronaldo.jpg",
       tags: ["juventus"]
     },
     {
